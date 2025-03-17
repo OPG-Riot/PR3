@@ -1,6 +1,7 @@
 # PR3
 
 Отладка консольного приложения «Фибоначчи»
+
 1)
 
 ![image](https://github.com/user-attachments/assets/ef531da1-25ad-4cd8-974d-0821cff2abec)
