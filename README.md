@@ -33,3 +33,27 @@
 3)
 
 ![image](https://github.com/user-attachments/assets/ffdbc907-cdd3-4023-ab87-dab77fa74f63)
+
+4)
+
+![image](https://github.com/user-attachments/assets/e437c77e-7951-493b-841a-5dfd16c06b16)
+
+# Отладка консольного приложения «Буквы»
+
+1)
+
+![image](https://github.com/user-attachments/assets/b3fc8aab-9555-4a02-aed9-c7fdad6db5c1)
+
+2)
+
+![image](https://github.com/user-attachments/assets/935de0d0-680a-4cb5-bf95-f394d386f270)
+
+3)
+
+![image](https://github.com/user-attachments/assets/0986db22-e676-4e71-8ef7-fea498c70328)
+
+4)
+
+![image](https://github.com/user-attachments/assets/ea4c7b06-b5b4-4939-ab9e-8c5f6445dd9b)
+
+
